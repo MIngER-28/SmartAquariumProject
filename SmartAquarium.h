@@ -1,5 +1,5 @@
 #pragma once
-#include "Hardware.hpp"
+#include "Hardware.h"
 #include <mutex>
 #include <atomic>
 #include <thread>
