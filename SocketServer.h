@@ -1,5 +1,5 @@
 #pragma once
-#include "SmartAquarium.hpp"
+#include "SmartAquarium.h"
 #include <iostream>
 #include <string>
 #include <cstring>
